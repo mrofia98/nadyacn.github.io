@@ -22,6 +22,7 @@ a {
 .container {
     max-width: 1170px;
     padding: 0 15px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -129,6 +130,28 @@ span.menu-icon {
   text-transform: capitalize;
 }
 
+.head-message h2 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 48px;
+  text-transform: capitalize;
+  padding-bottom: 9px;
+  color: #000000;
+}
+
+.head-message h3 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 35px;
+  text-transform: capitalize;
+  padding-bottom: 29px;
+  color: #000000;
+}
+
 .lesson {
   float: left;
   width: 20%;
@@ -162,4 +185,35 @@ span.menu-icon {
   text-align: center;
   text-transform: capitalize;
   font-color: #000000;
+}
+
+.message-wrapper {
+  font-family: Playfair Display;
+  text-align: center;
+  padding-bottom: 268px;
+}
+
+.message {
+  padding: 13px 42px 13px 41px;
+  background: #FFC56E;
+  border-radius: 24px;
+  cursor: pointer;
+  box-shadow: 0 7px #BF9350;
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 48px;
+  /* identical to box height */
+  
+  text-transform: capitalize;
+  
+  color: #000000;
+  
+}
+
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
 }
