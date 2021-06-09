@@ -118,6 +118,7 @@ span.menu-icon {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
+  font-weight: bold;
 }
 
 .heading h2 {
@@ -126,7 +127,7 @@ span.menu-icon {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 20%;
 }
 
 .lesson-icon {
