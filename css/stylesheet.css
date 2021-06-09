@@ -118,11 +118,15 @@ span.menu-icon {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
-  font-weight: bold;
 }
 
 .heading h2 {
+  font-family: Playfair Display;
+  font-style: normal;
   font-weight: normal;
+  font-size: 28px;
+  line-height: 37px;
+  text-transform: capitalize;
 }
 
 .lesson {
@@ -136,15 +140,26 @@ span.menu-icon {
 
 .lesson-icon p {
   position: absolute;
-  top: 44%;
+  top: 30%;
   width: 100%;
   color: white;
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 48px;
 }
 
 .text-contents {
   width: 80%;
   display: inline-block;
   margin-top: 15px;
-  font-size: 15px;
   color: #b3aeb5;
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  text-align: center;
+  text-transform: capitalize;
+  font-color: #000000;
 }
