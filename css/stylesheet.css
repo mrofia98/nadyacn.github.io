@@ -3,10 +3,7 @@
 position: relative;
 width: 1440px;
 height: 2104px;
-
 background: #FFFFFF;
-
-
 /* Header */
 
 position: absolute;
@@ -14,9 +11,6 @@ width: 1440px;
 height: 98px;
 left: 0px;
 top: 0px;
-
-
-
 /* Rectangle 1 */
 
 position: absolute;
@@ -24,10 +18,7 @@ width: 1440px;
 height: 98px;
 left: 0px;
 top: 0px;
-
 background: rgba(255, 205, 130, 0.74);
-
-
 /* Log In */
 
 position: absolute;
@@ -35,9 +26,6 @@ width: 162px;
 height: 98px;
 left: 1197px;
 top: 0px;
-
-
-
 /* Rectangle 2 */
 
 position: absolute;
@@ -45,10 +33,7 @@ width: 162px;
 height: 98px;
 left: 1197px;
 top: 0px;
-
 background: rgba(255, 190, 91, 0.74);
-
-
 /* Log In */
 
 position: absolute;
@@ -56,17 +41,12 @@ width: 81px;
 height: 30px;
 left: 1238px;
 top: 34px;
-
 font-family: Montserrat;
 font-style: normal;
 font-weight: 600;
 font-size: 25px;
 line-height: 30px;
-
 color: #000000;
-
-
-
 /* D11 */
 
 position: absolute;
@@ -74,7 +54,6 @@ width: 58px;
 height: 44px;
 left: 40px;
 top: 27px;
-
 font-family: Montserrat;
 font-style: normal;
 font-weight: bold;
@@ -83,9 +62,6 @@ line-height: 44px;
 /* identical to box height */
 
 color: #000000;
-
-
-
 /* Top */
 
 position: absolute;
@@ -93,9 +69,6 @@ width: 1440px;
 height: 659px;
 left: 0px;
 top: 95px;
-
-
-
 /* Header gradation */
 
 position: absolute;
@@ -103,9 +76,6 @@ width: 1440px;
 height: 659px;
 left: 0px;
 top: 95px;
-
-
-
 /* Rectangle 3 */
 
 position: absolute;
@@ -113,10 +83,7 @@ width: 1440px;
 height: 659px;
 left: 0px;
 top: 95px;
-
 background: url(baiq-daling-K63facPD8gg-unsplash.jpg);
-
-
 /* Rectangle 4 */
 
 position: absolute;
@@ -124,10 +91,7 @@ width: 1440px;
 height: 659px;
 left: 0px;
 top: 95px;
-
 background: linear-gradient(180deg, rgba(255, 190, 91, 0) 0%, rgba(255, 190, 91, 0.74) 100%);
-
-
 /* Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit */
 
 position: absolute;
@@ -135,19 +99,15 @@ width: 1109px;
 height: 35px;
 left: 165px;
 top: 496px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: normal;
 font-size: 26px;
 line-height: 35px;
 /* identical to box height */
+
 text-transform: capitalize;
-
 color: #000000;
-
-
-
 /* Lorem ipsum dolor sit amet */
 
 position: absolute;
@@ -155,18 +115,13 @@ width: 1097px;
 height: 71px;
 left: 171px;
 top: 390px;
-
 font-family: Montserrat;
 font-style: normal;
 font-weight: 900;
 font-size: 63px;
 line-height: 77px;
 text-transform: uppercase;
-
 color: #000000;
-
-
-
 /* LOREM IPSUM */
 
 position: absolute;
@@ -174,17 +129,12 @@ width: 481px;
 height: 71px;
 left: 479px;
 top: 305px;
-
 font-family: Montserrat;
 font-style: normal;
 font-weight: 900;
 font-size: 63px;
 line-height: 77px;
-
 color: #000000;
-
-
-
 /* Lessons */
 
 position: absolute;
@@ -192,9 +142,6 @@ width: 1440px;
 height: 770px;
 left: 0px;
 top: 754px;
-
-
-
 /* Rectangle 10 */
 
 position: absolute;
@@ -202,10 +149,7 @@ width: 1440px;
 height: 770px;
 left: 0px;
 top: 754px;
-
 background: #F3F3F3;
-
-
 /* laksa */
 
 position: absolute;
@@ -213,9 +157,6 @@ width: 211px;
 height: 448px;
 left: 1186px;
 top: 950px;
-
-
-
 /* Laksa Tangerang bahan utamanya semacam bihun tapi tebalnya seperti spaghetti dan terbuat dari beras. Kemudian disiram dengan kuah Laksa dari kacang ijo, kentang, santan dan kaldu ayam. Sebelum disajikan masakan ini diberi taburan daun kucai yang dirajang */
 
 position: absolute;
@@ -223,7 +164,6 @@ width: 187px;
 height: 124px;
 left: 1198px;
 top: 1274px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: normal;
@@ -231,11 +171,7 @@ font-size: 12px;
 line-height: 16px;
 text-align: center;
 text-transform: capitalize;
-
 color: #000000;
-
-
-
 /* Rectangle 9 */
 
 position: absolute;
@@ -243,11 +179,8 @@ width: 210.9px;
 height: 308px;
 left: 1186.1px;
 top: 950px;
-
 background: url(Laksa-Tangerang.png);
 border-radius: 24px;
-
-
 /* Rectangle 15 */
 
 position: absolute;
@@ -255,11 +188,8 @@ width: 210.9px;
 height: 308px;
 left: 1186px;
 top: 950px;
-
 background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 153, 0, 0.74) 100%);
 border-radius: 24px;
-
-
 /* Laksa */
 
 position: absolute;
@@ -267,7 +197,6 @@ width: 100px;
 height: 48px;
 left: 1242px;
 top: 1080px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: 900;
@@ -276,9 +205,6 @@ line-height: 48px;
 /* identical to box height */
 
 color: #FFFFFF;
-
-
-
 /* Nasi thiwul */
 
 position: absolute;
@@ -286,9 +212,6 @@ width: 211.23px;
 height: 448px;
 left: 900px;
 top: 950px;
-
-
-
 /* Nasi thiwul adalah nasi dengan berbahan pokok dari umbi ketela pohon yang telah diolah dengan cara tertentu sehingga menjadi gaplek (dikeringkan). */
 
 position: absolute;
@@ -296,7 +219,6 @@ width: 187px;
 height: 124px;
 left: 913px;
 top: 1274px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: normal;
@@ -304,11 +226,7 @@ font-size: 12px;
 line-height: 16px;
 text-align: center;
 text-transform: capitalize;
-
 color: #000000;
-
-
-
 /* Rectangle 8 */
 
 position: absolute;
@@ -316,11 +234,8 @@ width: 210.9px;
 height: 308px;
 left: 900.32px;
 top: 950px;
-
 background: url(photo6197278938296855605.jpg);
 border-radius: 24px;
-
-
 /* Rectangle 14 */
 
 position: absolute;
@@ -328,11 +243,8 @@ width: 210.9px;
 height: 308px;
 left: 900px;
 top: 950px;
-
 background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 153, 0, 0.74) 100%);
 border-radius: 24px;
-
-
 /* Nasi thiwul */
 
 position: absolute;
@@ -340,21 +252,17 @@ width: 167px;
 height: 48px;
 left: 922px;
 top: 1080px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: 900;
 font-size: 36px;
 line-height: 48px;
 /* identical to box height */
+
 display: flex;
 align-items: center;
 text-align: center;
-
 color: #FFFFFF;
-
-
-
 /* memek */
 
 position: absolute;
@@ -362,9 +270,6 @@ width: 211.35px;
 height: 448px;
 left: 614.55px;
 top: 950px;
-
-
-
 /* Memek adalah kudapan khas Pulau Simeulue di Aceh, Indonesia. Makanan ini mirip bubur dan terbuat dari beras ketan dan pisang. */
 
 position: absolute;
@@ -372,7 +277,6 @@ width: 187px;
 height: 124px;
 left: 626px;
 top: 1274px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: normal;
@@ -380,11 +284,7 @@ font-size: 12px;
 line-height: 16px;
 text-align: center;
 text-transform: capitalize;
-
 color: #000000;
-
-
-
 /* Rectangle 7 */
 
 position: absolute;
@@ -392,11 +292,8 @@ width: 210.9px;
 height: 308px;
 left: 614.55px;
 top: 950px;
-
 background: url(photo6192775338669485410.jpg);
 border-radius: 24px;
-
-
 /* Rectangle 13 */
 
 position: absolute;
@@ -404,11 +301,8 @@ width: 210.9px;
 height: 308px;
 left: 615px;
 top: 950px;
-
 background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 153, 0, 0.74) 100%);
 border-radius: 24px;
-
-
 /* Memek */
 
 position: absolute;
@@ -416,7 +310,6 @@ width: 125px;
 height: 48px;
 left: 658px;
 top: 1080px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: 900;
@@ -425,9 +318,6 @@ line-height: 48px;
 /* identical to box height */
 
 color: #FFFFFF;
-
-
-
 /* Lumpia */
 
 position: absolute;
@@ -435,9 +325,6 @@ width: 211.13px;
 height: 448px;
 left: 328.77px;
 top: 950px;
-
-
-
 /* dikenal sebagai jajanan khas Semarang. Cita rasa lumpia adalah perpaduan rasa antara Tionghoa dan Indonesia.Lumpia terdiri dari lembaran tipis tepung gandum yang dijadikan sebagai pembungkus isian yang umumnya adalah rebung, telur, sayuran segar, daging, atau makanan laut. */
 
 position: absolute;
@@ -445,7 +332,6 @@ width: 187px;
 height: 124px;
 left: 341px;
 top: 1274px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: normal;
@@ -453,11 +339,7 @@ font-size: 12px;
 line-height: 16px;
 text-align: center;
 text-transform: capitalize;
-
 color: #000000;
-
-
-
 /* Rectangle 6 */
 
 position: absolute;
@@ -465,11 +347,8 @@ width: 210.9px;
 height: 308px;
 left: 328.77px;
 top: 950px;
-
 background: url(photo6197278938296855680.jpg);
 border-radius: 24px;
-
-
 /* Rectangle 12 */
 
 position: absolute;
@@ -477,11 +356,8 @@ width: 210.9px;
 height: 308px;
 left: 329px;
 top: 950px;
-
 background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 153, 0, 0.74) 100%);
 border-radius: 24px;
-
-
 /* Lumpia */
 
 position: absolute;
@@ -489,7 +365,6 @@ width: 131px;
 height: 48px;
 left: 369px;
 top: 1080px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: 900;
@@ -498,9 +373,6 @@ line-height: 48px;
 /* identical to box height */
 
 color: #FFFFFF;
-
-
-
 /* Pudak */
 
 position: absolute;
@@ -508,9 +380,6 @@ width: 210.9px;
 height: 448px;
 left: 43px;
 top: 950px;
-
-
-
 /* kue khas dari Kabupaten Gresik, Jawa Timur, Indonesia. Makanan ini terbuat dari bahan tepung beras, gula pasir/gula jawa dan santan kelapa yang dimasukkan kemasan yang disebut "Ope" yaitu pelepah daun pinang. */
 
 position: absolute;
@@ -518,7 +387,6 @@ width: 187px;
 height: 124px;
 left: 55px;
 top: 1274px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: normal;
@@ -526,11 +394,7 @@ font-size: 12px;
 line-height: 16px;
 text-align: center;
 text-transform: capitalize;
-
 color: #000000;
-
-
-
 /* Rectangle 5 */
 
 position: absolute;
@@ -538,11 +402,8 @@ width: 210.9px;
 height: 308px;
 left: 43px;
 top: 950px;
-
 background: url(photo6197278938296855639.jpg);
 border-radius: 24px;
-
-
 /* Rectangle 11 */
 
 position: absolute;
@@ -550,11 +411,8 @@ width: 210.9px;
 height: 308px;
 left: 43px;
 top: 950px;
-
 background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 153, 0, 0.74) 100%);
 border-radius: 24px;
-
-
 /* Pudak */
 
 position: absolute;
@@ -562,7 +420,6 @@ width: 110px;
 height: 48px;
 left: 93px;
 top: 1080px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: 900;
@@ -571,9 +428,6 @@ line-height: 48px;
 /* identical to box height */
 
 color: #FFFFFF;
-
-
-
 /* Neque porro quisquam */
 
 position: absolute;
@@ -581,18 +435,13 @@ width: 294px;
 height: 37px;
 left: 573px;
 top: 840px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: normal;
 font-size: 28px;
 line-height: 37px;
 text-transform: capitalize;
-
 color: #000000;
-
-
-
 /* Message */
 
 position: absolute;
@@ -600,9 +449,6 @@ width: 510px;
 height: 205px;
 left: 465px;
 top: 1631px;
-
-
-
 /* Tombol */
 
 position: absolute;
@@ -610,9 +456,6 @@ width: 243px;
 height: 84px;
 left: 599px;
 top: 1752px;
-
-
-
 /* Rectangle 17 */
 
 position: absolute;
@@ -620,11 +463,8 @@ width: 243px;
 height: 74px;
 left: 599px;
 top: 1762px;
-
 background: #BF9350;
 border-radius: 24px;
-
-
 /* Rectangle 16 */
 
 position: absolute;
@@ -632,11 +472,8 @@ width: 243px;
 height: 74px;
 left: 599px;
 top: 1752px;
-
 background: #FFC56E;
 border-radius: 24px;
-
-
 /* Subscribe */
 
 position: absolute;
@@ -644,19 +481,15 @@ width: 160px;
 height: 48px;
 left: 640px;
 top: 1765px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: normal;
 font-size: 36px;
 line-height: 48px;
 /* identical to box height */
+
 text-transform: capitalize;
-
 color: #000000;
-
-
-
 /* est qui dolorem ipsum quia dolor sit amet */
 
 position: absolute;
@@ -664,19 +497,15 @@ width: 510px;
 height: 35px;
 left: 465px;
 top: 1688px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: normal;
 font-size: 26px;
 line-height: 35px;
 /* identical to box height */
+
 text-transform: capitalize;
-
 color: #000000;
-
-
-
 /* Neque porro quisquam */
 
 position: absolute;
@@ -684,19 +513,15 @@ width: 378px;
 height: 48px;
 left: 531px;
 top: 1631px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: normal;
 font-size: 36px;
 line-height: 48px;
 /* identical to box height */
+
 text-transform: capitalize;
-
 color: #000000;
-
-
-
 /* Footer */
 
 position: absolute;
@@ -704,9 +529,6 @@ width: 1442px;
 height: 103px;
 left: 0px;
 top: 1934px;
-
-
-
 /* Logo Progate Maybe? */
 
 position: absolute;
@@ -714,18 +536,13 @@ width: 343px;
 height: 45px;
 left: 548px;
 top: 1992px;
-
 font-family: Playfair Display;
 font-style: normal;
 font-weight: normal;
 font-size: 36px;
 line-height: 48px;
 text-transform: capitalize;
-
 color: #000000;
-
-
-
 /* Vector 1 */
 
 position: absolute;
@@ -733,5 +550,4 @@ width: 1442px;
 height: 0px;
 left: 0px;
 top: 1934px;
-
 border: 4px solid #F3F3F3;
